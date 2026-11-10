@@ -1,0 +1,20 @@
+# 本机自动生成：允许创建，不入库
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# 本机环境与编辑器
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+.workbuddy/
+
+# 本机文档样本与运行数据（数据目录默认在 ~/.workbuddy/doc-style）
+*.docx
+*.pptx
+profiles/
+config.json
+audit.jsonl
+calls.jsonl
